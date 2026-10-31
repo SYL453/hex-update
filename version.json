@@ -1,9 +1,9 @@
 {
-  "versionCode": 52,
-  "versionName": "3.31",
+  "versionCode": 53,
+  "versionName": "3.32",
   "force": false,
-  "title": "Hex 更新到 3.31",
-  "notes": "· 线下旁白改为居中独立成行，不再混进对话气泡\n· 聊天信息页降噪重组为四张卡片，危险操作标红",
+  "title": "Hex 更新到 3.32",
+  "notes": "· 聊天信息页加大间距、行内留白、分割线缩进\n· 隔离阅读上下文，杜绝小说旁白串入聊天",
   "apkUrl": "https://syl453.github.io/hex-update/Hex.apk",
   "size": 505679
 }
