@@ -1,9 +1,9 @@
 {
-  "versionCode": 50,
-  "versionName": "3.29",
+  "versionCode": 51,
+  "versionName": "3.30",
   "force": false,
-  "title": "Hex 更新到 3.29",
-  "notes": "· 修复更新下载损坏安装包的问题\n· 设置页标题居中",
+  "title": "Hex 更新到 3.30",
+  "notes": "· 侧边栏只留用户设置，聊天设置移回 ⋯ 菜单\n· 发动态页权限改成内联半屏选好友\n· 修复抽屉头像文字不居中",
   "apkUrl": "https://syl453.github.io/hex-update/Hex.apk",
   "size": 505679
 }
