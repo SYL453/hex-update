@@ -1,9 +1,9 @@
 {
-  "versionCode": 48,
-  "versionName": "3.27",
+  "versionCode": 49,
+  "versionName": "3.28",
   "force": false,
-  "title": "Hex 更新到 3.27",
-  "notes": "本次更新：\n· 聊天界面 QQ 化：气泡 / 顶栏 / 输入区 / 红包转账 / 语音条\n· 联系人 A-Z 索引、群聊三段折叠、设备列表\n· 侧边抽屉（头像点开）+ 左缘手势拦截\n· 纯色一键换 + 壁纸 / 锁屏 / 聊天背景实时预览\n· 智能批量导入多个角色\n· 聊天全文搜索\n· 修复闪屏与顶栏透底",
+  "title": "Hex 更新到 3.28",
+  "notes": "本次更新：\n· 修复更新下载损坏安装包的问题\n· 聊天界面 QQ 化、联系人索引、侧边抽屉、主题预览、批量导入、全文搜索等全部功能",
   "apkUrl": "https://syl453.github.io/hex-update/Hex.apk",
   "size": 505679
 }
