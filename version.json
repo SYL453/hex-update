@@ -1,9 +1,9 @@
 {
-  "versionCode": 49,
-  "versionName": "3.28",
+  "versionCode": 50,
+  "versionName": "3.29",
   "force": false,
-  "title": "Hex 更新到 3.28",
-  "notes": "本次更新：\n· 修复更新下载损坏安装包的问题\n· 聊天界面 QQ 化、联系人索引、侧边抽屉、主题预览、批量导入、全文搜索等全部功能",
+  "title": "Hex 更新到 3.29",
+  "notes": "· 修复更新下载损坏安装包的问题\n· 设置页标题居中",
   "apkUrl": "https://syl453.github.io/hex-update/Hex.apk",
   "size": 505679
 }
