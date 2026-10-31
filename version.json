@@ -1,9 +1,9 @@
 {
-  "versionCode": 51,
-  "versionName": "3.30",
+  "versionCode": 52,
+  "versionName": "3.31",
   "force": false,
-  "title": "Hex 更新到 3.30",
-  "notes": "· 侧边栏只留用户设置，聊天设置移回 ⋯ 菜单\n· 发动态页权限改成内联半屏选好友\n· 修复抽屉头像文字不居中",
+  "title": "Hex 更新到 3.31",
+  "notes": "· 线下旁白改为居中独立成行，不再混进对话气泡\n· 聊天信息页降噪重组为四张卡片，危险操作标红",
   "apkUrl": "https://syl453.github.io/hex-update/Hex.apk",
   "size": 505679
 }
